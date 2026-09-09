@@ -1,0 +1,17 @@
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# Env
+.env
+.env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Editors
+.vscode/
+.idea/
