@@ -1,4 +1,4 @@
-# Handoff: Options Trading Tracker
+# Options Trading Tracker (still WIP)
 
 ## Overview
 A personal options-trading journal: a dashboard summarizing P&L/win-rate, a full trades list with search/filter, and a journal for per-position notes. Backend target (per user): Supabase (DB + auth) and Resend (email), deployed behind a Cloudflare-managed domain. Frontend to be rebuilt in React.
